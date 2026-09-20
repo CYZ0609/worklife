@@ -1,0 +1,14 @@
+[
+  {
+    "id": "evt_001",
+    "title": "Traffic Ticket",
+    "description": "You were caught speeding on the way to work. Pay the fine.",
+    "amount": -150.0
+  },
+  {
+    "id": "evt_002",
+    "title": "Scratch Card Win",
+    "description": "You bought a scratch card at the convenience store and won a small prize!",
+    "amount": 50.0
+  }
+]
